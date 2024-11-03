@@ -1,5 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Devanshu Raj!</h1>
 <p align="center">🚀 Passionate Software Engineer | AI & ML Enthusiast | IoT Specialist</p>
+---
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat" alt="redd-hope" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=redd-hope&theme=darkhub" alt="redd-hope" />
+  </a> 
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redd-hope&show_icons=true&locale=en&layout=compact&theme=dark" alt="redd-hope" />
+</p>
 
 ---
 
