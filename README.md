@@ -166,15 +166,6 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 ---
 
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat-square" 
-    alt="Profile views" 
-    width="250" 
-    style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); transition: transform 0.2s; cursor: pointer;" 
-  />
-  <br />
-  <span style="color: #ffffff; font-size: 24px; font-family: Arial; text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);">✨ 1234 Profile Views ✨</span>
-</div>
+
 
 
