@@ -16,7 +16,7 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 </p>
 
 <div align="center">
-  <img align="center" src="https://i.imgflip.com/65efzo.gif](https://github.com/Redd-hope/Redd-hope/blob/main/profile-pic%20(21).png" height="150" alt="Developer" />
+  <img align="center" src="[https://i.imgflip.com/65efzo.gif](https://github.com/Redd-hope/Redd-hope/blob/main/profile.png)" height="150" alt="Developer" />
 </div>
 
 ---
