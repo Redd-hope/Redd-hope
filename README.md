@@ -114,16 +114,16 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://youtube.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://x.com/DevanshuRaj101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://t.me/YourTelegramGroup" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/devanshu-raj-460180318/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:devs.raj.101@gmail.com">
@@ -137,19 +137,19 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 ### 🌐 Visit My Profiles
 
 <div align="center">
-  <a href="https://your-portfolio-site.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.kaggle.com/your-kaggle-profile" target="_blank">
+  <a href="https://www.kaggle.com/devanshuraj101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://huggingface.co/your-hugging-face-profile" target="_blank">
+  <a href="https://huggingface.co/Dev101Wow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FF4F00&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://github.com/your-github-profile" target="_blank">
+  <a href="https://github.com/Redd-hope" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://your-technical-blog.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
