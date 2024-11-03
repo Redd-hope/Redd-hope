@@ -166,7 +166,6 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 ---
 
-
 <div align="center">
   <svg
     xmlns="http://www.w3.org/2000/svg"
@@ -177,7 +176,6 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
   >
     <rect x="0" y="0" width="250" height="100" rx="10" ry="10" fill="#2e2e2e" />
     <text
-      id="counter"
       x="125"
       y="50"
       font-family="Arial"
@@ -186,19 +184,8 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
       text-anchor="middle"
       alignment-baseline="middle"
     >
-      0
+      1234
     </text>
-    <script>
-      let count = 0;
-      const counterElement = document.getElementById("counter");
-      setInterval(() => {
-        if (count < 1000) {
-          count++;
-          counterElement.textContent = count;
-          counterElement.setAttribute("fill", `hsl(${(count / 1000) * 120}, 100%, 50%)`); // Change color as count increases
-        }
-      }, 10); // Adjust the speed of the animation here
-    </script>
   </svg>
 </div>
 
