@@ -134,6 +134,28 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 ---
 
+### 🌐 Visit My Profiles
+
+<div align="center">
+  <a href="https://your-portfolio-site.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.kaggle.com/your-kaggle-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://huggingface.co/your-hugging-face-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FF4F00&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/your-github-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://your-technical-blog.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
+
 <br clear="both">
 
 
