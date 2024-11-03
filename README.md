@@ -133,12 +133,6 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 <br clear="both">
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat" alt="redd-hope" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redd-hope" alt="redd-hope" /></a> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
