@@ -4,23 +4,23 @@
 ---
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat" alt="redd-hope" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat-square" alt="redd-hope" />
 </p>
 
-<p align="left"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redd-hope&theme=darkhub" alt="redd-hope" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=redd-hope&theme=dracula&no-frame=true&margin-w=15" alt="redd-hope trophies" />
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redd-hope&theme=darkhub" alt="redd-hope" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redd-hope&theme=dracula" alt="GitHub Streak" />
+</p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redd-hope&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Redd-hope&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top languages" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=redd-hope&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redd-hope&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
 </div>
 
 ---
