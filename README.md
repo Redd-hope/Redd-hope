@@ -117,8 +117,11 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://t.me/YourTelegramGroup" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
@@ -127,6 +130,7 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
+
 
 ---
 
