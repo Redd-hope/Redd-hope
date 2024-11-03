@@ -167,27 +167,46 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 ---
 
 <div align="center">
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="250"
-    height="100"
-    viewBox="0 0 250 100"
-    style="background-color: #1e1e1e;"
+  <svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    width="300" 
+    height="100" 
+    viewBox="0 0 300 100" 
+    style="background-color: #1e1e1e; border-radius: 10px;"
   >
-    <rect x="0" y="0" width="250" height="100" rx="10" ry="10" fill="#2e2e2e" />
-    <text
-      x="125"
-      y="50"
-      font-family="Arial"
-      font-size="36"
-      fill="#ffffff"
-      text-anchor="middle"
-      alignment-baseline="middle"
+    <style>
+      .pulse {
+        animation: pulse-animation 2s infinite;
+      }
+      @keyframes pulse-animation {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+    </style>
+    <rect x="0" y="0" width="300" height="100" rx="10" ry="10" fill="#2e2e2e" />
+    <text 
+      x="150" 
+      y="50" 
+      font-family="Arial" 
+      font-size="36" 
+      fill="#ffffff" 
+      text-anchor="middle" 
+      alignment-baseline="middle" 
+      class="pulse"
     >
       1234
     </text>
   </svg>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
 </div>
-
 
 
