@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Devanshu Raj!</h1>
 <p align="center">🚀 Passionate Software Engineer | AI & ML Enthusiast | IoT Specialist</p>
+
 ---
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,9 +14,7 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redd-hope&show_icons=true&locale=en&layout=compact&theme=dark" alt="redd-hope" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redd-hope&theme=darkhub" alt="redd-hope" /></p>
 
 ---
 
@@ -147,5 +146,5 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redd-hope&" alt="redd-hope" /></p>
+
 
