@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Devanshu Raj</title>
+  <desc id="d">Software Engineer · Real-time Data Platforms &amp; AI Agents</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#10233D"/>
+    </linearGradient>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="860" y1="0" x2="1145" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <style>
+      .name { font: 700 60px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+      .head { font: 500 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #A9B7CC; }
+      .chip { font: 600 15px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #CFE3F7; }
+      .chipbg { fill: #FFFFFF; fill-opacity: 0.06; stroke: #60A5FA; stroke-opacity: 0.35; }
+      .lbl { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #7D8DA6; }
+      .edge { stroke: url(#accent); stroke-width: 2; fill: none; stroke-dasharray: 6 8; animation: flow 1.6s linear infinite; }
+      .node { fill: #0B1220; stroke: #2DD4BF; stroke-width: 2; }
+      .hub  { fill: #0B1220; stroke: #60A5FA; stroke-width: 2.5; }
+      .core { fill: url(#accent); }
+      .pulse { fill: none; stroke: #60A5FA; stroke-width: 1.5; animation: pulse 2.4s ease-out infinite; transform-origin: 1125px 150px; }
+      @keyframes flow { to { stroke-dashoffset: -28; } }
+      @keyframes pulse { 0% { opacity: .7; transform: scale(1); } 100% { opacity: 0; transform: scale(1.9); } }
+      @media (prefers-reduced-motion: reduce) { .edge, .pulse { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="60" y="62" width="72" height="5" rx="2.5" fill="url(#bar)"/>
+
+  <text class="name" x="58" y="132">Devanshu Raj</text>
+  <text class="head" x="60" y="176">Software Engineer · Real-time Data Platforms &amp; AI Agents</text>
+
+  <g transform="translate(60 204)">
+    <rect class="chipbg" x="0"   y="0" width="166" height="34" rx="17"/>
+    <text class="chip"   x="83"  y="22" text-anchor="middle">SDE-1 @ Easebuzz</text>
+    <rect class="chipbg" x="178" y="0" width="128" height="34" rx="17"/>
+    <text class="chip"   x="242" y="22" text-anchor="middle">NSUT CSE ’26</text>
+    <rect class="chipbg" x="318" y="0" width="160" height="34" rx="17"/>
+    <text class="chip"   x="398" y="22" text-anchor="middle">SIH ’24 Finalist</text>
+    <rect class="chipbg" x="490" y="0" width="200" height="34" rx="17"/>
+    <text class="chip"   x="590" y="22" text-anchor="middle">Patent · AI + Edge IoT</text>
+  </g>
+
+  <!-- motif: sources → stream → processor → agent -->
+  <g>
+    <path class="edge" d="M872 92 C 920 92, 930 150, 975 150"/>
+    <path class="edge" d="M872 150 L 975 150"/>
+    <path class="edge" d="M872 208 C 920 208, 930 150, 975 150"/>
+    <path class="edge" d="M1005 150 L 1045 150"/>
+    <path class="edge" d="M1075 150 L 1105 150"/>
+
+    <circle class="node" cx="862" cy="92"  r="10"/>
+    <circle class="node" cx="862" cy="150" r="10"/>
+    <circle class="node" cx="862" cy="208" r="10"/>
+    <rect class="hub" x="975" y="130" width="30" height="40" rx="6"/>
+    <rect class="hub" x="1045" y="135" width="30" height="30" rx="15"/>
+    <circle class="pulse" cx="1125" cy="150" r="20"/>
+    <circle class="hub" cx="1125" cy="150" r="20"/>
+    <circle class="core" cx="1125" cy="150" r="8"/>
+
+    <text class="lbl" x="862"  y="244" text-anchor="middle">events</text>
+    <text class="lbl" x="990"  y="194" text-anchor="middle">stream</text>
+    <text class="lbl" x="1060" y="194" text-anchor="middle">process</text>
+    <text class="lbl" x="1125" y="194" text-anchor="middle">agents</text>
+  </g>
+</svg>

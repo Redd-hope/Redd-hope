@@ -1,0 +1,43 @@
+# Weekly check that every link/image in the profile README still works.
+# On failure it opens (or updates) an issue so a broken profile never goes unnoticed.
+name: Check README links
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+  pull_request:
+    paths: ["README.md"]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 200,206,429
+            --exclude 'linkedin\.com'
+            --exclude 'x\.com'
+            --exclude '^mailto:'
+            README.md
+          fail: false
+
+      - name: Open issue on broken links
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: "🔗 Broken links in profile README"
+          content-filepath: ./lychee/out.md
+          labels: broken-links
